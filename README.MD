@@ -1,6 +1,6 @@
 # Pokedex Pokemon GO 
 
-Simple WebScraper from pokemondb.net to collect Pokemon data (Types, Basic Stats and Weakness)
+Simple WebScraper for pokemondb.net to collect Pokemon data (types, basic statistics and weaknesses) in a SQLite Db, in order to use it in App senza le PokeApi
 
 ## Requirements
 
